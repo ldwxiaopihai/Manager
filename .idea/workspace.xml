@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cf0c9039-ba8c-49e1-8796-45dfaace5c95" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-api/src/main/java/com/alibaba/dubbo/demo/DemoService.java" afterPath="$PROJECT_DIR$/dubbo-api/src/main/java/com/alibaba/dubbo/demo/DemoService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-consumer/src/java/com/alibaba/dubbo/consumer/Consumer.java" afterPath="$PROJECT_DIR$/dubbo-consumer/src/java/com/alibaba/dubbo/consumer/Consumer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-consumer2/src/main/java/com/alibaba/dubbo/consumer/Consumer.java" afterPath="$PROJECT_DIR$/dubbo-consumer2/src/main/java/com/alibaba/dubbo/consumer/Consumer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-provider/src/java/com/alibaba/dubbo/demo/impl/DemoServiceImpl.java" afterPath="$PROJECT_DIR$/dubbo-provider/src/java/com/alibaba/dubbo/demo/impl/DemoServiceImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/dubbo-consumer/target/" />
@@ -815,7 +811,7 @@
       <workItem from="1520473094843" duration="20000" />
       <workItem from="1520473141610" duration="171000" />
       <workItem from="1520473365737" duration="10009000" />
-      <workItem from="1520486279076" duration="1445000" />
+      <workItem from="1520486279076" duration="1585000" />
     </task>
     <task id="LOCAL-00001" summary="dubbo">
       <created>1520489423312</created>
@@ -824,7 +820,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520489423312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dubbo">
+      <created>1520489566001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520489566001</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -860,7 +863,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11645000" />
+    <option name="totallyTimeSpent" value="11785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -893,11 +896,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3409836" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.58196723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7655738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
