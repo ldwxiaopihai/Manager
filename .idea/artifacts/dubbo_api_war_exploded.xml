@@ -26,6 +26,8 @@
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
           <element id="library" level="project" name="Maven: org.springframework:spring-test:4.2.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.2.8" />
+          <element id="library" level="project" name="Maven: tk.mybatis:mapper:3.4.4" />
+          <element id="library" level="project" name="Maven: javax.persistence:persistence-api:1.0" />
           <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.2.2" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.29" />
           <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.2.2" />
