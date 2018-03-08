@@ -10,6 +10,8 @@
     <module>dubbo-provider</module>
     <module>dubbo-consumer</module>
     <module>dubbo-consumer2</module>
+    <module>UserCore</module>
+      <module>usercore</module>
   </modules>
   <name>DubboDemo Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -120,6 +122,11 @@
       <groupId>org.mybatis</groupId>
       <artifactId>mybatis</artifactId>
       <version>${mybatis.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>tk.mybatis</groupId>
+      <artifactId>mapper</artifactId>
+      <version>3.4.4</version>
     </dependency>
 
     <!-- 添加mybatis/spring整合包依赖 -->
