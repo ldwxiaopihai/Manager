@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Manager.iml" filepath="$PROJECT_DIR$/.idea/Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-api/dubbo-api.iml" filepath="$PROJECT_DIR$/dubbo-api/dubbo-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer2/dubbo-consumer2.iml" filepath="$PROJECT_DIR$/dubbo-consumer2/dubbo-consumer2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repast/repast.iml" filepath="$PROJECT_DIR$/repast/repast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/support.iml" filepath="$PROJECT_DIR$/support/support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/usercore/usercore.iml" filepath="$PROJECT_DIR$/usercore/usercore.iml" />
     </modules>
   </component>

@@ -22,6 +22,11 @@
             <artifactId>junit</artifactId>
             <version>RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>DubboDemo</groupId>
+            <artifactId>dubbo-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
     <build>
         <finalName>usercore</finalName>

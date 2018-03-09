@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="repast:war">
+    <output-path>$PROJECT_DIR$/repast/target</output-path>
+    <root id="archive" name="repast.war">
+      <element id="artifact" artifact-name="repast:war exploded" />
+    </root>
+  </artifact>
+</component>

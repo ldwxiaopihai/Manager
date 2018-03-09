@@ -1,16 +1,15 @@
 package com.usercore.service.impl;
 
+import com.alibaba.dubbo.demo.UserService;
 import com.usercore.mapper.UserMapper;
-import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Service;
 
 /**
  * Created by Administrator on 2018/3/8 0008.
  */
-@Service
-public class UserServiceImpl {
+
+public class UserServiceImpl implements UserService {
     @Autowired
  private UserMapper userMapper;
 

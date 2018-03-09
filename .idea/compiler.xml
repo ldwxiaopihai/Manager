@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dubbo-api" />
-        <module name="dubbo-consumer" />
-        <module name="dubbo-consumer2" />
-        <module name="dubbo-provider" />
+        <module name="repast" />
+        <module name="support" />
+        <module name="test" />
         <module name="usercore" />
       </profile>
     </annotationProcessing>
@@ -19,6 +19,9 @@
       <module name="dubbo-consumer2" target="1.8" />
       <module name="dubbo-provider" target="1.8" />
       <module name="Manager" target="1.8" />
+      <module name="repast" target="1.8" />
+      <module name="support" target="1.8" />
+      <module name="test" target="1.8" />
       <module name="UserCore" target="1.8" />
       <module name="usercore" target="1.8" />
     </bytecodeTargetLevel>

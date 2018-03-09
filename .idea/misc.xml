@@ -3,6 +3,9 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/dubbo-api" />
     <file type="web" url="file://$PROJECT_DIR$/dubbo-consumer2" />
+    <file type="web" url="file://$PROJECT_DIR$/repast" />
+    <file type="web" url="file://$PROJECT_DIR$/support" />
+    <file type="web" url="file://$PROJECT_DIR$/test" />
     <file type="web" url="file://$PROJECT_DIR$/usercore" />
   </component>
   <component name="MavenProjectsManager">
@@ -14,6 +17,9 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/UserCore/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
       </set>
     </option>
   </component>
